@@ -110,3 +110,20 @@
 3. Creating and Customizing Rails Generators & Templates
 4. Getting Started with Engines
 5. Threading and Code Execution in Rails 
+
+
+## Useful Ruby Gems
+
+1. Ruby Toolbox
+2. [Kebab Project Gems](https://github.com/kebab-project)
+3. [More](https://github.com/lab2023/playbook/blob/master/development/ruby.md#ruby-gems)
+
+
+## Deployment
+
+1. Heroku
+    1. Heroku Toolbelt / Heroku GEM kurulumu
+    2. Ücretsiz Heroku hesabı açılması
+    3. Heroku yönetim konsolunun tanıtılması
+    4. Heroku’ya deploy
+2. [VPS](https://github.com/lab2023/playbook/blob/master/development/server.md)
