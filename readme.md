@@ -12,4 +12,4 @@ Anadolu Üniversitesi, Eskişehir, 25 - 28 Ocak 2020
    4. Web Ön Yüz (Front-end) Programlama
    5. Veri Bilimine Giriş
 
-2. Kabul edilen eğitim: 
+2. Kabul edilen eğitim: Ruby on Rails ile Web Programlama
