@@ -4,7 +4,7 @@
 2. DHH, Rails
 3. RubyMine, lisanslı IDE
 4. Bolu  yaz kampı 15 gün sürüyor
-5. David, Jason
+5. David, Jason iki ortak ve kurucu
 6. Ruby = mutlu programcı
 7. Rails = gülümseyen programcı
 8. CodeSchool sahipleri, Youtube videoları
@@ -31,3 +31,17 @@
 29. Gemfile bir kütüphane manifestosu
 30. `config.ru` dosyası web server için gerekli dosya (rack-based server)
 31. rack ile iletişime geçmek için kullanılan dosya `config.ru` dosyası. Bu dosya ile bir server ayaklandırılabiliyor, rack gem kullanılarak. 
+32. [Rails Doctrine](https://rubyonrails.org/doctrine/)
+33. [Ruby Toolbox](https://www.ruby-toolbox.com/), to examine Gems
+34. Fazla Gems kullanımı, projede bağımlılıkları arttırarak sürdürebilirliği zorlaştırıyor. 
+35. `nginx` çalışma mekanizmasını öğren!
+36. Dosya isimlerinin tamamı küçük harfle ve alt çizgi ile ayrılıyor
+37. JS, CSS, HTML, PDF içerisine embedded Ruby yerleştirilebiliyor
+38. Rails'ın bütün controller'ı RESTful çalışıyor!
+39. `rails routes` ile dönen sayfada, ilk sütundakiler Ruby helper
+40. Rails'te controller'lar çoğuldur/çoğul tanımlanır
+41. Model: Person, Controller: People, helper: person
+42. Migration, db'de timetravel için yaratılmış bir araç sunuyor
+43. `db/migrate/schema.rb` dosyasının içinde db ile ilgili her bilgi var, bu dosya değiştirilmemeli.
+44. `rails console` , ruby gibi!
+45. Anlatılacaklar: ORM (DAO), MVC, REST
