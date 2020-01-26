@@ -45,3 +45,18 @@
 43. `db/migrate/schema.rb` dosyasının içinde db ile ilgili her bilgi var, bu dosya değiştirilmemeli.
 44. `rails console` , ruby gibi!
 45. Anlatılacaklar: ORM (DAO), MVC, REST
+46. Rails'te partials dosyaları _ ile başlıyor
+47. Scaffolding
+48. Rails Girls etkinlikleri
+49. 4 temel etkinlik var TR'de:
+    1.  Özgür Web Teknolojileri Günleri (bahara doğru, 2 günlük, haftasonu, konferans türü)
+    2.  Özgür Yazılım günleri (kışa doğru)
+    3.  Yaz kampı
+    4.  Kış kampı
+50. Rails'te: view: Action View / template, model: Active Record, controller: Action Pack
+51. Front controller design pattern (Rails'te var, mutlaka bilinmeli, araştır)
+52. ORM: MVC içinde database ile ilişki kısmı, datanın dildeki karşılığı: model (tablonun karşılığı = model)
+53. SQL101 yaz kampına kadar öğrenilmeli
+54. DB'de 2 kavram
+    1.  data definition language: create, alter, log-table, change-table (Rails migration'da bu kısım etkin)
+    2.  data query language: sorgula, update..vb (Rails'te active record kısmı)
