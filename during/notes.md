@@ -60,3 +60,9 @@
 54. DB'de 2 kavram
     1.  data definition language: create, alter, log-table, change-table (Rails migration'da bu kısım etkin)
     2.  data query language: sorgula, update..vb (Rails'te active record kısmı)
+55. Stimulus.js ve Turbolinks: 
+    1.  Stimulus.js
+        1. [Origin](https://stimulusjs.org/handbook/origin)
+    2.  Turbolinks
+        1.  [Video](https://www.youtube.com/watch?v=SWEts0rlezA)
+56. Basecamp, proje takip ve yönetim sistemi, 3 adet proje ve 5 kişiye kadar ücretsiz, toplam 20 kullanıcı, 1GB veri alanı
