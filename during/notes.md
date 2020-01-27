@@ -9,18 +9,19 @@
 7. Rails = gülümseyen programcı
 8. CodeSchool sahipleri, Youtube videoları
 9. ZSH, oh-my-zsh
-10. [Ruby Style Guide](https://rubystyle.guide/)
-11. version change log
-12. git flow
-13. Revolution OS (2001)
-14. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-15. git lfs
-16. HTTP yaşam döngüsü
-17. `puma.io` 
-18. `artoo.io`
-19. micro framework, php ve java'da da var
-20. FrontController, Design Pattern
-21. DSL (doman specific language)
+10. `curl`'i iyi bil
+11. [Ruby Style Guide](https://rubystyle.guide/)
+12. version change log
+13. git flow
+14. Revolution OS (2001)
+15. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+16. git lfs
+17. HTTP yaşam döngüsü
+18. `puma.io` 
+19. `artoo.io`
+20. micro framework, php ve java'da da var
+21. FrontController, Design Pattern
+22. DSL (doman specific language)
 22. Ruby = yakut, Gem = hazine sandığı
 23. Gems'ler başka dil kodları da içerebilir
 24. `rubygems.org`
@@ -63,6 +64,24 @@
 55. Stimulus.js ve Turbolinks: 
     1.  Stimulus.js
         1. [Origin](https://stimulusjs.org/handbook/origin)
+        2. Rails şart değil, başka sistemlerle de çalışıyor
+        3. Event Driven Development bilgisini geliştirmen gerek JS kullanmak için
+        4. [mutation observer](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
     2.  Turbolinks
         1.  [Video](https://www.youtube.com/watch?v=SWEts0rlezA)
+        2.  Uygulamanın hızlı çalışmasını sağlamak işlevi
+        3.  Çoğu şeyi arka planda hallediyor
+        4.  Cross platform olduğu için mobil konusunda uzman birileri de gerekebilir
+        5.  Rails'te zaten kurulu geliyor
+        6.  pushState + ajax = pjax buradan çıkan bir fikir
 56. Basecamp, proje takip ve yönetim sistemi, 3 adet proje ve 5 kişiye kadar ücretsiz, toplam 20 kullanıcı, 1GB veri alanı
+    1.  Aktif olarak 5 yıldır BC kullanıyorlar
+    2.  Rails konusunda bilgi ediniyorlar, nasıl kullanılıyor, yeni yaklaşımlar, Rails ekosistemi ve proje yönetimi hakkında fikir veriyor
+    3.  Rails (Stimulus ve Turbolinks) ile yapılmış bir cross-platform uygulama
+    4.  Basit ve kullanışlı bir ürün, monolithic uygulama, milyonlarda kullanıcısı var
+57. Proje yap, Rails'i geliştir, iyi bir şeyler çıkarırsan bana ulaş, iş imkanı sağlarım, yurtdışında çok iş imkanı var
+58. Proje yapacaksan Basecamp gibi düşünmelisin
+59. Transaction konusunu araştır, database ile ilgili
+60. Postgresql her anlamda güçlü bir dil, Rails ile çok uyumlu çalışıyor
+61. Useful Gem: activeadmin
+62. Controller zayıf/kısa, model büyük/şişman olmalı, controller'de fazla kod muhtemelen yanlıştır
