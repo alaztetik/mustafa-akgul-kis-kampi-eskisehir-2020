@@ -85,3 +85,65 @@
 60. Postgresql her anlamda güçlü bir dil, Rails ile çok uyumlu çalışıyor
 61. Useful Gem: activeadmin
 62. Controller zayıf/kısa, model büyük/şişman olmalı, controller'de fazla kod muhtemelen yanlıştır
+63. Mail'lere daha kısa sürede geri dönüyor
+64. View dosyaları template olarak isimlendiriliyor
+    1.  API dönüşleri view olarak kullanılabiliyor
+65. `-> {}` lambda, parametre olarak metot girmek
+66. Model
+    1.  Migration: DDL
+    2.  Query Interface: DQL
+    3.  Validations: 
+    4.  Callback: hook, trigger
+    5.  Assiciations: FK, PK
+67. Rails, [Jbuilder](https://github.com/rails/jbuilder)
+68. mixings, OOP'den biraz farklı, plug-and-play gibi görev yapıyor, object'e ek bir özellik katmak için kullanılıyor
+69. `content_for` kullanışlı bir metot (View kısmında)
+70. `::` gösterimi, Ruby'den geliyor, aynı zamanda klasör/altklasör gösterimini ifade ediyor.
+71. `cookie, session` konularına ayrıntılı çalış
+72. Her şeyi REST olarak görmek gerekir, o açıdan bakılmadı, CRUD işlemlerinden birine o işlemi indirgemek gerekir, non-RESTful konulara pek girmemek, girilirse de nasıl REST ile yapılacağını çıkarmak gerekir 
+73. Rails'te AJAX uygulaması yapmak çok kolay
+74. `default_url_options` önemli bir konu (Controller kısmında), url'de dil ayarı yapılacak kısım
+75. `Session` (cookie) önemli bir konu
+    1.  web uygulamalarının olmazsa olmazıdır
+    2.  session server tarafında, cookie browser'da tutuluyor
+    3.  ikisi de birbirine girmiş gibi görünüyor
+    4.  session: oturum açma, giriş yapma için kullanılıyor
+76. master_key değerlerini özel yazılımlarla şifreli halde tutuyorlar
+77. db'de kullanıcı şifrelerini açık olarak kaydetmeyin
+78. her site için ayrı bir şifre kullanılmalı
+79. şifreler şifrelenerek saklanmalı
+80. db'de kredikartı bilgileri kaydetmek KVKK kapsamında doğru değil, sadece isim ve eposta kaydedilebilir
+81. Rails `cookies.encrypted` ile şifrelediği bilgiyi `cookies` diye kullanırken kendisi otomatik olarak açıyor
+82. life cycle:
+    1.  request geliyor, before_action, after_action
+83. `Hook`: yaşam döngüsünde belli noktalara ulaşabilmek
+84. `HTML API`'lerini iyi öğren!
+85. `HTTPS` kullanmak için sunucuda HTTPS sertifikasının bulunması lazım
+86. Email'de inline CSS kullan, external'a gerek yok, open source template'ler var
+    1.  Mail'lerde `path` hiç kullanılmamalı yalnızca `url` kullanılmalı
+87. Jobs, arka planda çalışan işlerdir, oluşturması çok kolaydır
+88. Background işler için (Jobs) Redis'i kullan (ve sidekiq kullanılabilir)
+89. [crontab.guru](https://crontab.guru/)
+90. [Minimagic](https://github.com/minimagick/minimagick), Rails image processing Gem
+91. Action Cable, web socket ile ilgili
+        1.  browser'da, Network, websocket kısmına görülebilir
+        2.  çok yaygın kullanılmaya başlandı
+92. Rails, test için Selenium kullanıyor
+93. Kitap önerisi, 4. basın ücretsiz, internetten bulunabilir, [book](https://www.railstutorial.org/book)
+94. Ruby 3.0 yakında yayınlanacak, more strictly typed language
+95. Cache konusu, özellikle server performansını arttıracağı, maliyeti düşüreceği için çok önemli
+96. Rails-API kısmını, views'siz, sadece JSON döndüren halde kullanabiliriz
+97. Rails'i öğrendiği kaynak, biraz eski ama kullanışlı, birçokk video var: [kaynak](http://railscasts.com/)
+98. Çalışma sırası:
+    1.  RailsCast videoları
+    2.  Rails Tutorial book (madde 93)
+    3.  [Go Rails](https://gorails.com/) 
+    4.  [Upcase](https://thoughtbot.com/upcase)
+99. Çok stajyer alan bir firmayız!
+100. remote server automation and deployment tool, [Capistrano](https://capistranorb.com/)
+101. Makale çok: [Lab2023](https://lab2023.com/)
+102. dokku, vps'e server kurunca, heroku gibi çalışan bir servis, [dokku](http://dokku.viewdocs.io/dokku/)
+103. Ruby Türkiye topluluğu olarak birçok konuda destek oluyorlar, konuşmacı vb
+104. Şirket olarak remote ve İngilizce konularını tercih ediyorlar, staj imkanı sağlıyorlar
+105. [Konferanslar](https://rubyconferences.org/)
+106. [Bulgaristan konferansı](https://balkanruby.com/)
