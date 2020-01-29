@@ -51,9 +51,9 @@
 48. Rails Girls etkinlikleri
 49. 4 temel etkinlik var TR'de:
     1.  Özgür Web Teknolojileri Günleri (bahara doğru, 2 günlük, haftasonu, konferans türü)
-    2.  Özgür Yazılım günleri (kışa doğru)
-    3.  Yaz kampı
-    4.  Kış kampı
+    2.  Özgür Yazılım ve Linux Günleri (kışa doğru)
+    3.  Yaz kampı (Bolu'da)
+    4.  Kış kampı (her sene farklı şehirde)
 50. Rails'te: view: Action View / template, model: Active Record, controller: Action Pack
 51. Front controller design pattern (Rails'te var, mutlaka bilinmeli, araştır)
 52. ORM: MVC içinde database ile ilişki kısmı, datanın dildeki karşılığı: model (tablonun karşılığı = model)
@@ -147,3 +147,5 @@
 104. Şirket olarak remote ve İngilizce konularını tercih ediyorlar, staj imkanı sağlıyorlar
 105. [Konferanslar](https://rubyconferences.org/)
 106. [Bulgaristan konferansı](https://balkanruby.com/)
+107. [Ruby Türkiye](https://rubyturkiye.org/)
+108. 
