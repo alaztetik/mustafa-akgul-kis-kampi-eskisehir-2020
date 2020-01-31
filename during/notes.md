@@ -4,7 +4,7 @@
 2. DHH, Rails
 3. RubyMine, lisanslı IDE
 4. Bolu  yaz kampı 15 gün sürüyor
-5. David, Jason iki ortak ve kurucu
+5. David, Jason: iki ortak ve kurucu
 6. Ruby = mutlu programcı
 7. Rails = gülümseyen programcı
 8. CodeSchool sahipleri, Youtube videoları
